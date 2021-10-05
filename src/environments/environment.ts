@@ -5,6 +5,7 @@
 export const environment = {
   production: false,
 };
+export default environment;
 
 /*
  * For easier debugging in development mode, you can import the following file

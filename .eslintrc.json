@@ -11,8 +11,8 @@
       "extends": [
         "plugin:@angular-eslint/recommended",
         "plugin:@angular-eslint/template/process-inline-templates",
-        "airbnb-typescript/base",
-        "plugin:import/recommended"
+        "airbnb-base",
+        "airbnb-typescript/base"
       ],
       "rules": {
         "@angular-eslint/directive-selector": [
